@@ -1,1 +1,1 @@
-# MLOps-tests
+# Learning phase of MLOps
